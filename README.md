@@ -5,13 +5,13 @@ This project recreates the modern Netflix homepage design — featuring a hero s
 
 ✨ Features
 
-✅ Fully responsive landing page
-✅ Hero section with background image & CTA
-✅ Attractive navigation bar with sign-in button
-✅ Multiple promotional content sections
-✅ Embedded videos inside TV screens
-✅ Frequently Asked Questions (FAQ) section
-✅ Styled footer with useful links
+1. Fully responsive landing page
+2. Hero section with background image & CTA
+3. Attractive navigation bar with sign-in button
+4. Multiple promotional content sections
+5. Embedded videos inside TV screens
+6. Frequently Asked Questions (FAQ) section
+7. Styled footer with useful links
 
 🚀 Technologies Used
 
