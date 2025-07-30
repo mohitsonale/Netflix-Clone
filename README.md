@@ -15,9 +15,11 @@ This project recreates the modern Netflix homepage design — featuring a hero s
 
 🚀 Technologies Used
 
--HTML5 — markup structure
--CSS3 — custom styling and layout
--No external frameworks — pure HTML & CSS!
+1.HTML5 — markup structure
+
+2.CSS3 — custom styling and layout
+
+3.No external frameworks — pure HTML & CSS!
 
 📸 Screenshots
 
